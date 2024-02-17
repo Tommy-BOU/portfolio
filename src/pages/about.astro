@@ -1,0 +1,155 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+import ContactCTA from "../components/ContactCTA.astro";
+import Hero from "../components/Hero.astro";
+---
+
+<BaseLayout
+	title="À propos | Tommy BOUBAKER"
+	description="À propos Tommy BOUBAKER"
+>
+	<div class="stack gap-20">
+		<main class="wrapper about">
+			<Hero title="À propos de moi" tagline="">
+				<img
+					width="300"
+					height="150"
+					src="/assets/portrait.jpg"
+					alt="Tommy BOUBAKER"
+				/>
+			</Hero>
+
+			<section>
+				<h2 class="section-title">Background</h2>
+				<div class="content">
+					<p>
+						Ancien boulanger, j'ai décidé de me reconvertir dans le
+						développement web pour avoir de meilleures conditions de
+						travail. Passionné d'informatique depuis tout petit,
+						j'ai commencer par apprendre le Python pour me former à
+						la logique de programmation, puis le C# pour faire des
+						jeux vidéos avec l'Unity engine. J'ai ensuite décidé de
+						rejoindre une formation certifiante avec l'AFPA
+						Territoire digital pour obtenir un diplôme de
+						développeur web et web mobile (BAC +2).
+					</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Diplômes</h2>
+				<div class="content">
+					<p>
+						Novembre 2023 à Aout 2024 -<b>
+							AFPA Territoire digital : Titre professionnel
+							Développeur web et web mobile niveau 5 (Bac +2)</b
+						>
+					</p>
+					<br />
+					<p>
+						Septembre 2015 à Juin 2016 - <b
+							>Centre de formation d’apprentis de Muret Certificat
+							d’aptitude professionnelle - Spécialité Boulanger</b
+						>
+					</p>
+					<br />
+					<p>
+						Septembre 2008 à Juillet 2009 - <b
+							>Lycée Pierre d’aragon à Muret Baccalauréat -
+							Science et technologies de gestion</b
+						>
+					</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Compétences</h2>
+				<div class="content">
+					<p>
+						Langages de programmation : <br />
+						HTML <br />
+						CSS (dont SASS) <br />
+						Javascript <br />
+						Python <br />
+						C# <br />
+						PHP <br />
+						<br />
+
+						Framework: <br />
+						Vue.js <br />
+						<br />
+
+						Back-end: <br />
+						MySQL <br />
+						NoSQL <br />
+						Symfony <br /><br />
+
+						Version control: <br />
+						Git <br />
+						GitHub <br />
+					</p>
+				</div>
+			</section>
+		</main>
+
+		<ContactCTA />
+	</div>
+</BaseLayout>
+
+<style>
+	.about {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+	img {
+		margin-top: 1.5rem;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+		margin: 0 auto;
+	}
+
+	section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-200);
+	}
+
+	.section-title {
+		grid-column-start: 1;
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	.content {
+		grid-column: 2 / 4;
+	}
+
+	.content :global(a) {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.about {
+			display: grid;
+			grid-template-columns: 1fr 60% 1fr;
+		}
+
+		.about > :global(:first-child) {
+			grid-column-start: 2;
+		}
+
+		section {
+			display: contents;
+			font-size: var(--text-lg);
+		}
+	}
+</style>
