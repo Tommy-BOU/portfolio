@@ -59,7 +59,10 @@ const iconLinks: {
 										(href !== "/" &&
 											Astro.url.pathname.startsWith(
 												href,
-											)),
+											) &&
+											Astro.url.pathname.charAt(
+												href.length,
+											) === "/"),
 								},
 							]}
 							href={href}
