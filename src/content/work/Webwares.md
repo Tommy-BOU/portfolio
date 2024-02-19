@@ -4,7 +4,7 @@ publishDate: 2019-12-01 00:00:00
 img: /assets/webwares.png
 img_alt: website product page
 description: |
-Nous avons crée un site d'e-commerce en utilisant le framework VueJS.
+ Nous avons crée un site d'e-commerce en utilisant le framework VueJS.
 tags:
   - Dev
   - Branding
