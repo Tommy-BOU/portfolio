@@ -1,7 +1,7 @@
 ---
 title: Site EventGrids
 publishDate: 2020-03-02 00:00:00
-img: /assets/euro-conf-img.png
+img: /portfolio/assets/euro-conf-img.png
 img_alt: website main page
 description: |
  Nous avons crée un site web avec des pages statiques en utilisant HTML et CSS (SASS) et Bootstrap

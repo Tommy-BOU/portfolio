@@ -1,7 +1,7 @@
 ---
 title: Moonman Adventures
 publishDate: 2020-03-04 00:00:00
-img: /assets/moonman.png
+img: /portfolio/assets/moonman.png
 img_alt: moonman cover image
 description: |
  J'ai développé un jeu de plateformes en 2D en utilisant l'Unity engine
