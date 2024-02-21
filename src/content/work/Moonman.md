@@ -7,8 +7,8 @@ description: |
  J'ai développé un jeu de plateformes en 2D en utilisant l'Unity engine
 tags:
   - Design
-  - Dev
-  - Branding
+  - Pixel Art
+  - Game dev
 ---
 
 ## Moonman Adventures
