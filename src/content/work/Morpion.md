@@ -4,7 +4,7 @@ publishDate: 2019-12-01 00:00:00
 img: /portfolio/assets/morpion.png
 img_alt: website product page
 description: |
-Un simple jeu de morpion crée avec Javascript
+ Un simple jeu de morpion crée avec Javascript
 tags:
   - Dev
   - Jeu
