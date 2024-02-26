@@ -13,6 +13,7 @@ tags:
 
 ## WebWares
 <a href="https://tommy-bou.github.io/Tic-Tac-Toe/"> Lien vers le projet </a>
+<br>
 <a href="https://github.com/Tommy-BOU/Tic-Tac-Toe"> Lien vers le repo github </a>
 
 Dans cet exercice j'ai du créer un jeu de morpion en utilisant HTML, CSS et Javascript.

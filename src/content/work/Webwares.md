@@ -14,6 +14,7 @@ tags:
 
 ## WebWares
 <a href="https://tommy-bou.github.io/Projet-WebWares/"> Lien vers le projet </a>
+<br>
 <a href="https://github.com/Tommy-BOU/Projet-WebWares"> Lien vers le repo github </a>
 
 Pour ce projet de groupe à 4, nous avons dû crée un site d'e-commerce pour un grossiste d'ameublement en utilisant le framework VueJS.

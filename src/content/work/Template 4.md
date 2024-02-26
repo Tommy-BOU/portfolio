@@ -12,6 +12,7 @@ tags:
 
 ## Georgia restaurant
 <a href="https://tommy-bou.github.io/Template-4/"> Lien vers le projet </a>
+<br>
 <a href="https://github.com/Tommy-BOU/Template-4"> Lien vers le repo github </a>
 
 Pour ce projet, j'ai reçu la tâche de crée une page web statique en utilisant le langage de présentation SASS.
