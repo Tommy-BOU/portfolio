@@ -12,7 +12,7 @@ tags:
 ---
 
 ## Moonman Adventures
-<a href="https://omnicroissant.itch.io/moonman-adventures-demo"> Lien vers la démo </a> <b>
+<a href="https://omnicroissant.itch.io/moonman-adventures-demo"> Lien vers la démo </a> <br>
 <a href="https://store.steampowered.com/app/2963070/MoonMan_Adventures/"> Lien vers la page steam </a>
 
 J'ai crée un jeu vidéo en utilisant l'Unity engine.
