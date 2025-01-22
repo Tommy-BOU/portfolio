@@ -11,7 +11,7 @@ tags:
 ---
 
 
-## WebWares
+## Morpion
 <a href="https://tommy-bou.github.io/Tic-Tac-Toe/"> Lien vers le projet </a>
 <br>
 <a href="https://github.com/Tommy-BOU/Tic-Tac-Toe"> Lien vers le repo github </a>
