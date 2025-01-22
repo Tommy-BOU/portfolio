@@ -3,11 +3,13 @@ import Icon from './Icon.astro';
 import ThemeToggle from './ThemeToggle.astro';
 import type { iconPaths } from './IconPaths';
 
+// TODO put /portfolio before each href
 /** Main menu items */
 const textLinks: { label: string; href: string }[] = [
-	{ label: 'Accueil', href: '/portfolio' },
-	{ label: 'Projets', href: '/portfolio/work' },
-	{ label: 'À propos', href: '/portfolio/about' },
+	{ label: 'Accueil', href: '/' },
+	{ label: 'Projets web', href: '/webProjects' },
+	{ label: 'Jeux', href: '/gameProjects' },
+	{ label: 'À propos', href: '/about' },
 ];
 
 /** Icon links to social media — edit these with links to your profiles! */
@@ -19,7 +21,7 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 
 <nav>
 	<div class="menu-header">
-		<a href="/portfolio" class="site-title">
+		<a href="/" class="site-title">
 			<Icon icon="terminal-window" color="var(--accent-regular)" size="1.6em" gradient />
 			Tommy BOUBAKER
 		</a>
