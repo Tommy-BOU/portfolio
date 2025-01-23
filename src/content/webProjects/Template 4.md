@@ -1,6 +1,6 @@
 ---
 title: Georgia restaurant
-publishDate: 2019-10-02 00:00:00
+publishDate: 2023-12-06 00:00:00
 img: /portfolio/assets/georgia-restaurant.png
 img_alt: website main page
 description: |
@@ -16,3 +16,8 @@ tags:
 <a href="https://github.com/Tommy-BOU/Template-4"> Lien vers le repo github </a>
 
 Pour ce projet, j'ai reçu la tâche de crée une page web statique en utilisant le langage de présentation SASS.
+
+
+<hr>
+
+For this project, I had to create a static web page using the presentation language SASS.

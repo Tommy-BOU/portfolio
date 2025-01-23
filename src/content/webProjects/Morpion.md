@@ -1,6 +1,6 @@
 ---
 title: Morpion
-publishDate: 2019-12-01 00:00:00
+publishDate: 2024-01-03 00:00:00
 img: /portfolio/assets/morpion.png
 img_alt: website product page
 description: |
@@ -17,3 +17,7 @@ tags:
 <a href="https://github.com/Tommy-BOU/Tic-Tac-Toe"> Lien vers le repo github </a>
 
 Dans cet exercice j'ai du créer un jeu de morpion en utilisant HTML, CSS et Javascript.
+
+<hr>
+
+In this excercise, I had to create a Tic-tac-toe game using HTML, CSS and Javascript.
