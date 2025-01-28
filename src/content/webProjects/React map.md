@@ -11,7 +11,7 @@ tags:
 ---
 
 
-## Morpion
+## React map
 <a href="https://tommy-bou.github.io/react-map/"> Lien vers le projet </a>
 <br>
 <a href="https://github.com/Tommy-BOU/React-map"> Lien vers le repo github </a>
