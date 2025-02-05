@@ -20,5 +20,5 @@ Il a été fait avec le framework php Symfony afin de lui permettre d'éditer le
 
 <hr>
 
-This website is used as a portfolio, blog, biography and organisation and communication tool for the musiciab Heddy BOUBAKER (who is also my father). <br>
+This website is used as a portfolio, blog, biography and organisation and communication tool for the musician Heddy BOUBAKER (who is also my father). <br>
 It was created using the Symfony php framework to allow him to dynamically manage the content of the website.
