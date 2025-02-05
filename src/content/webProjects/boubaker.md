@@ -11,14 +11,14 @@ tags:
 ---
 
 
-## React map
+## Boubaker.net
 <a href="https://boubaker.net"> Lien vers le projet </a>
 
 
-Ce site sert de portfolio, blog, biographie et outil d'organisation et de communication pour le musicien Heddy BOUBAKER (qui est accessoirement aussi mon père).
+Ce site sert de portfolio, blog, biographie et outil d'organisation et de communication pour le musicien Heddy BOUBAKER (qui est accessoirement aussi mon père). <br>
 Il a été fait avec le framework php Symfony afin de lui permettre d'éditer le contenu de façon dynamique.
 
 <hr>
 
-This website is used as a portfolio, blog, biography and organisation and communication tool for the musiciab Heddy BOUBAKER (who is also my father).
+This website is used as a portfolio, blog, biography and organisation and communication tool for the musiciab Heddy BOUBAKER (who is also my father). <br>
 It was created using the Symfony php framework to allow him to dynamically manage the content of the website.
