@@ -12,7 +12,7 @@ tags:
 
 
 ## Boubaker.net
-<a href="https://boubaker.net"> Lien vers le projet </a>
+<a href="https://boubaker.net"> Lien vers le site </a>
 
 
 Ce site sert de portfolio, blog, biographie et outil d'organisation et de communication pour le musicien Heddy BOUBAKER (qui est accessoirement aussi mon père). <br>
